@@ -1,1 +1,3 @@
 # MedicApp
+
+En Cuidadoras S.A., es crucial garantizar que los medicamentos se administren a los pacientes de manera precisa y a tiempo para evitar complicaciones de salud y mejorar la calidad de atención. Las enfermeras necesitan un sistema eficaz que les permita gestionar la administración de medicamentos de forma organizada y sin errores. Este sistema debe ser capaz de proporcionar recordatorios automáticos, registrar la administración de medicamentos en tiempo real y generar alertas para los casos en que no se hayan administrado los medicamentos según lo programado. Esto es necesario para asegurar que las enfermeras puedan cumplir con sus responsabilidades de manera eficiente, reduciendo el riesgo de omisiones o retrasos en la administración de los tratamientos. 
